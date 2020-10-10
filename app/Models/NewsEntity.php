@@ -38,7 +38,6 @@ class NewsEntity extends Model
         $entity->article_id = $article->id;
         $entity->save();
         $entity->documents = (array)$entity;
-
     }
 
     public function article(): BelongsTo
