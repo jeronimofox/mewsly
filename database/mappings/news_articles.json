@@ -1,0 +1,42 @@
+{
+    "body": {
+        "_source": {
+            "enabled": true
+        },
+        "properties": {
+            "id": {
+                "type": "keyword"
+            },
+            "source": {
+                "type": "text"
+            },
+            "author": {
+                "type": "text"
+            },
+            "title": {
+                "type": "text"
+            },
+            "description": {
+                "type": "text"
+            },
+            "url": {
+                "type": "text"
+            },
+            "urlToImage": {
+                "type": "text"
+            },
+            "publishedAt": {
+                "type": "text"
+            },
+            "content": {
+                "type": "text"
+            },
+            "created_at": {
+                "type": "text"
+            },
+            "updated_at": {
+                "type": "text"
+            }
+        }
+    }
+}
