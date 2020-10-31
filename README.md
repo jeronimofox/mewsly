@@ -1,6 +1,5 @@
 Mewsly
 
-Finish the description 
 What is?
 
 get news feed, parse the articles' text, analyze it with NLP-engine for entities - locations, cities, regions, states, countries, show map with tag notes with this places. 
